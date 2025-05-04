@@ -1,4 +1,4 @@
-# Orange Pi 5 Ultra — eMMC Enablement with Device
+# Orange Pi 5 Ultra — Enable eMMC via Overlay
 
 [Armbian_community_25.5.0-trunk.444_Orangepi5-max_bookworm_vendor_6.1.115_minimal.img.xz](https://github.com/armbian/community/releases/download/25.5.0-trunk.444/Armbian_community_25.5.0-trunk.444_Orangepi5-max_bookworm_vendor_6.1.115_minimal.img.xz)
 
